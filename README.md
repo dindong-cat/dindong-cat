@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dindong-cat
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Java.
 
 <!---
 dindong-cat/dindong-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
