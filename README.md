@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dindong-cat
+- 👋 Hi, I’m Vincent
 - 🌱 I’m currently learning Python and Java.
 
 <!---
