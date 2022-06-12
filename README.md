@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vincent
+- 👋 Hi, I’m Din Dong.
 - 🌱 I’m currently learning Python and Java.
 
 <!---
